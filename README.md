@@ -7,6 +7,8 @@
 
 ### Result
 
-![2017 runtime] (https://github.com/jkmom/VBA_Challenge2/blob/main/Resources/Refactored_2017.png)
+![2017 runtime](https://github.com/jkmom/VBA_Challenge2/blob/main/Resources/Refactored_2017.png)
+
+
 
 
